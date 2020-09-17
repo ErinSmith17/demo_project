@@ -1,3 +1,9 @@
+body {
+    background-color: honeydew;
+    opacity: 0.3;
+}
+
+
 title {
     color: darkslategrey;
     align-self: center;
